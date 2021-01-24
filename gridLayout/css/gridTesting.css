@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+.mainTheme {
+    background-color: #ffffff;
+}
+
 .appWrapper {
     position: relative;
     display: grid;
